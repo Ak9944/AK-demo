@@ -1,5 +1,9 @@
+
 HI
 This is first line in index
 we are going to merge
 Now adding first line to merge
 Now start merging
+Going add new line
+This is first merge
+
