@@ -2,3 +2,4 @@ HI
 This is new file.
 Adding new features.
 Feature1 - Configuring Git.
+Feature2 - Docker.
